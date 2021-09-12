@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon application.js",
+    "start": "node application.js",
     "jest": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
